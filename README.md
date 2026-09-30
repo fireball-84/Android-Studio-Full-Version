@@ -251,4 +251,4 @@ This repository serves as the official landing page for Android Studio. The soft
 **Get the most recent version of Android Studio today!**
 
 ---
-**Last updated:** 2026-09-30 03:32:45 UTC
+**Last updated:** 2026-09-30 10:12:49 UTC
